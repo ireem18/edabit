@@ -27,8 +27,8 @@ const Header2 = () =>(
             </div>
           </Grid.Column>
           <Grid.Column className="SocialContainer">
-            <Button className="facebook" color='blue' style={{ height: '30px', width: '165px' }}>Sign in with Face</Button>
-            <Button className="goggle" color='red' style={{ height: '30px', width: '170px' }}>Sign in with Goggle</Button>
+            <Button className="facebook" color='blue' style={{ height: '30px', width: '165px' }}>Sign in with Facebook</Button>
+            <Button className="goggle" color='red' style={{ height: '30px', width: '170px' }}>Sign in with Google</Button>
             <Input className="username"iconPosition='left' placeholder='Pick a username'>
               <Icon name='user' />
               <input />
