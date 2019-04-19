@@ -1,0 +1,81 @@
+.edabit{
+  color:white;
+  font-size: 30px;
+  font-family:'Abril Fatface';
+  font-display: center;
+  margin-top: 5px;
+}
+
+.sign-in{
+  margin-top:10px;
+  margin-right: 4px;
+  border-color:white;
+  font-display: center;
+}
+
+.Register{
+  margin-top:10px;
+  border-color:white;
+  font-display: center;
+}
+.textContainer{
+  display:flex;
+  width: 50%;
+  height:250px;
+  margin-top: 30px;
+}
+.SocialContainer{
+  display:flex;
+  border-color:white;
+  width: 50%;
+  height: 220px;
+  margin-left: 400px;
+  margin-top:-250px;
+  background-color: white;
+  border-radius: 8px;
+  
+}
+.Learn-to-code-with-interactive{
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+  color:white;
+  border-color:white;
+  margin-top:40px;
+
+}
+
+.Secondparagraph{
+  font-size: 20px;
+  font-family: 'romoto';
+  color:white;
+  margin-top:15px;
+}
+
+.Buttons{
+  margin-top: 10px;
+}
+
+.username{
+  margin-top: 6px;
+}
+
+.email{
+  margin-top: 6px;
+}
+
+.password{
+  margin-top: 6px;
+}
+
+.ortala{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+
+.the-fastest-way-to-learn{
+  font-size: 20px;
+  color:darkgray;
+}
+
